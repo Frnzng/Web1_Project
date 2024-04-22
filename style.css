@@ -1,0 +1,56 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+
+#line {
+    width: 21%;
+}
+
+#logo {
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+}
+
+#sign-up {
+    border: none;
+    padding: 10px;
+    background-color: #A5BE00;
+}
+
+#log-in {
+    border: none;
+    padding: 10px;
+    background-color: #2EC4B6;
+}
+ 
+
+#email {
+    background-color: #A5BE00;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#password {
+    background-color: #A5BE00;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#right-btn {
+    position: absolute;
+    bottom: 10px; /* 10 pixels from the bottom */
+    right: 10px; /* 10 pixels from the right */
+    width: 150px; 
+    height: 150px; 
+}
